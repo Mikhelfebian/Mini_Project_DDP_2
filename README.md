@@ -6,7 +6,7 @@ Error Handling Pada Sistem Aplikasi Pengumpulan Nilai dan Mata Kuliah
 
 Foto Flowchart :
 
-![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/5e407b6b9a9997298d924fd986b608cfa11addfb/FLOWCHART%20DDP%202.jpg)
+![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/06686ce02512d04c33ebd5670ccfa108a80c9d23/Flowchart%20ori%20boss.jpg)
 
 Output dan Penjelasan Alur Program Dan Error Handling :
 
