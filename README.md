@@ -11,7 +11,11 @@ Foto Flowchart :
 Output dan Penjelasan Alur Program Dan Error Handling :
 
 1. Program Akan Menampilkan Menu Login, pada menu login kita diberi 2 jenis username dan password yang berbeda. user dan password pertama adalah khusus staff dan pengurus yang bertugas untuk menambahkah, melihat, menghapus, dan update. User yang kedua adalah pengguna atau mahasiswa yang hanya bisa melihat nilai dan mata kuliah yang sudah diinput oleh staff atau pengurus.
-   Contoh jika login menggunakan user admin :
+Contoh jika login menggunakan user admin :
    
    ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/6b16d4e98649523c0105af000de43fb60a7ae664/output%20login%20admin%20.png)
+
+2. Pada menu Pengurus kita Memiliki beberapa fungsi yang dimana kita bisa menambah, menghapus, melihat, mengganti data secara bebas.
+contoh jika memilih menu "Tambah Data Mahasiswa" :
+
 
