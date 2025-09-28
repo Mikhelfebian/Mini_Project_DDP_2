@@ -36,4 +36,4 @@ contoh jika memilih menu "1. Tambah Data Mahasiswa" kita bisa menambahkan nama, 
 
 2. Login Ke menu Pengguna. Pada menu pengguna kita tidak dapat mengubah data yang sudah ada, hanya staff atau pengurus saja yang bisa dan di menu ini kita hanya bisa melihat data saja.
 - Contoh login menu pengguna :
-  ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/930734a14429dec2fd5a53ae4ee24d96b263a92c/Login%20Pengguna%20151831.png)
+- ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/930734a14429dec2fd5a53ae4ee24d96b263a92c/Login%20Pengguna%20151831.png)
