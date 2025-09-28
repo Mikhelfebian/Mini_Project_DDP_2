@@ -25,3 +25,6 @@ Contoh Jika kita Memilih Menu "2. Tambah Mata Kuliah Dan Nilai" :
 
 Contoh jika memilih menu "3. Tampilkan Data Mahasiswa dan Mata Kuliah" :
 ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/056f37b539b7db391dd0fa74609f71588ee22831/Pilihan%20pengurus%203.png)
+
+Contoh jika Kita memilih menu "4. Hapus Data Mahasiswa" :
+![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/434b99a46b13c84deef5872fe68b39c9c3b362d9/Cuplikan%20layar%202025-09-28%20145627.png)
