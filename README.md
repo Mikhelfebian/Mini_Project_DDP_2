@@ -10,4 +10,6 @@ Foto Flowchart :
 
 Output dan Penjelasan Alur Program Dan Error Handling :
 
-1. Program Akan Menampilkan Menu Login, pada menu login kita diberi 2 jenis username dan password yang berbeda. user dan password pertama adalah khusus staff dan pengurus yang bertugas untuk menambahkah, melihat, menghapus, dan 
+1. Program Akan Menampilkan Menu Login, pada menu login kita diberi 2 jenis username dan password yang berbeda. user dan password pertama adalah khusus staff dan pengurus yang bertugas untuk menambahkah, melihat, menghapus, dan update. User yang kedua adalah pengguna atau mahasiswa yang hanya bisa melihat nilai dan mata kuliah yang sudah diinput oleh staff atau pengurus.
+
+
