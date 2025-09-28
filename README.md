@@ -46,6 +46,6 @@ contoh jika memilih menu "1. Tambah Data Mahasiswa" kita bisa menambahkan nama, 
 - ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/f16df3301c63f57e1a945f4c0add95ddcd9f8c74/Cuplikan%20layar%202025-09-28%20153053.png)
 
 - Keyboard interupt :
-- ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/78af74e4e08790573363232c7741a16e1672b99d/Cuplikan%20layar%202025-09-28%20153420.png)
+- ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/52ce7a228aa65d980bbddfb6d6477490e08ef488/Cuplikan%20layar%202025-09-28%20154210.png)
 
 - 
