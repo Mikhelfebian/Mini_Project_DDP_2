@@ -18,4 +18,5 @@ Contoh jika login menggunakan user admin :
 2. Pada menu Pengurus kita Memiliki beberapa fungsi yang dimana kita bisa menambah, menghapus, melihat, mengganti data secara bebas.
 contoh jika memilih menu "Tambah Data Mahasiswa" :
 
+![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/4df30dc4471cc0c2862e8bf3846b828d18a64b49/pilihan%20pengurus%201.png)
 
