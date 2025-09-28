@@ -30,3 +30,6 @@ contoh jika memilih menu "1. Tambah Data Mahasiswa" kita bisa menambahkan nama, 
 
 - Contoh jika kita memilih menu "5. Update Data Mahasiswa / Nilai" :
   ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/7a6d56601645f07469938745bed73a7c97cf6d74/Pilihan%205%20pengurus.png)
+
+- Contoh jika kita memilih menu "6. Kembali ke Menu Login"
+  ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/5149e4df29fd60783bf8064b2c479fd2fbd30bf1/Cuplikan%20layar%202025-09-28%20150645.png)
