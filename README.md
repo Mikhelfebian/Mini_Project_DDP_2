@@ -21,4 +21,7 @@ contoh jika memilih menu "1. Tambah Data Mahasiswa" kita bisa menambahkan nama, 
 ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/4df30dc4471cc0c2862e8bf3846b828d18a64b49/pilihan%20pengurus%201.png)
 
 Contoh Jika kita Memilih Menu "2. Tambah Mata Kuliah Dan Nilai" :
+![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/f77629f1f5557cc686c52bbe0ff49490791c0a42/Pilihan%20pengurus%202.png)
+
+Contoh jika memilih menu "3. Tampilkan Data Mahasiswa dan Mata Kuliah" :
 ![img alt]()
