@@ -40,3 +40,18 @@ contoh jika memilih menu "1. Tambah Data Mahasiswa" kita bisa menambahkan nama, 
 
 - Contoh Menu dan seluruh output yang ada di menu pengguna :
   ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/20322e1e9c2c49a727d667d20fd0f051ea09f991/menu%20pengguna151840.png)
+
+3. Output Error Handling :
+======================================================================
+|                      Menu Pengurus                                 |
+======================================================================
+1. Tambah Data Mahasiswa.
+2. Tambah Mata Kuliah dan Nilai Mahasiswa.
+3. Tampilkan Data Mahasiswa dan Mata Kuliah.
+4. Hapus Data Mahasiswa.
+5. Update Data Mahasiswa / Nilai.
+6. Kembali Ke Menu Login.
+Masukkan Pilihan Menu : 1
+Masukkan Nama : Mikhel 
+Masukkan NIM : ikan
+Input Harus Berupa Angka
