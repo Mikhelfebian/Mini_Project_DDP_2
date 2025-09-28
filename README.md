@@ -48,4 +48,5 @@ contoh jika memilih menu "1. Tambah Data Mahasiswa" kita bisa menambahkan nama, 
 - Keyboard interupt :
 - ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/52ce7a228aa65d980bbddfb6d6477490e08ef488/Cuplikan%20layar%202025-09-28%20154210.png)
 
-- 
+- EOFError :
+- ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/f4d66db6f54b063634e9f9b90e56656aa34330a9/Cuplikan%20layar%202025-09-28%20154519.png)
