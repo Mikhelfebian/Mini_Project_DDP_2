@@ -208,7 +208,7 @@ def menu_pengguna():
                 print(f"- {makul[0]}")
       elif menu_pengguna == "3":
         print("Anda Telah Keluar Dari Program")
-      break
+        exit()
     except ValueError:
       print("Input Harus Berupa Angka")
     except KeyboardInterrupt:
