@@ -28,3 +28,6 @@ Contoh jika memilih menu "3. Tampilkan Data Mahasiswa dan Mata Kuliah" :
 
 Contoh jika Kita memilih menu "4. Hapus Data Mahasiswa" :
 ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/434b99a46b13c84deef5872fe68b39c9c3b362d9/Cuplikan%20layar%202025-09-28%20145627.png)
+
+Contoh jika kita memilih menu "5. Update Data Mahasiswa / Nilai" :
+![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/434b99a46b13c84deef5872fe68b39c9c3b362d9/Cuplikan%20layar%202025-09-28%20145627.png)
