@@ -44,3 +44,8 @@ contoh jika memilih menu "1. Tambah Data Mahasiswa" kita bisa menambahkan nama, 
 3. Output Error Handling :
 - ValueError :
 - ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/f16df3301c63f57e1a945f4c0add95ddcd9f8c74/Cuplikan%20layar%202025-09-28%20153053.png)
+
+- Keyboard interupt :
+- ![img alt](https://github.com/Mikhelfebian/Mini_Project_DDP_2/blob/b4f0f61a19262e89d0ca7a135a8aaaae52769cbd/Cuplikan%20layar%202025-09-28%20153053.png)
+
+- 
